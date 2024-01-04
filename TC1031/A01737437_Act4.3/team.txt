@@ -1,0 +1,9 @@
+Rodrigo López Guerra - A01737437
+
+División de Trabajo:
+
+Rodrigo:
+Implementación de: BUSQUEDA DE MÁXIMOS
+		   ESTRUCTURAS DE DATOS
+		   CREACIÓN DE GRAFOS
+		   ALGORITMOS DE BÚSQUEDA

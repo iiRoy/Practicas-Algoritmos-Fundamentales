@@ -1,0 +1,9 @@
+Rodrigo López Guerra - A01737437
+
+División de Trabajo:
+
+Rodrigo:
+Implementación de: IMPLEMENTACIÓN TABLA HASH
+		   LECTURA DE REDES Y SUBREDES EN STRINGS
+		   BÚSQUEDA QUICKSORT
+		   BUSQUEDA EN TABLA HASH

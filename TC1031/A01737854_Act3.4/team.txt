@@ -1,0 +1,14 @@
+
+Emiliano Sánchez Dominguez A01736342
+Cynthia Amador Santiago A01737854
+Rodrigo López Guerra A01737437
+
+Dado que este codigo en su mayoria esta compuesto por partes de codigos que hemos entregado antes, solo fueron necesarios unos 
+pocas adaptaciones. 
+
+Cynthia trabajó en la adaptacion del ingreso de registros en el BST. 
+
+Emiliano trabajó en la funcion para imprimir los cinco registros mas altos y en la adaptacion de la sobrecarga del operado en funcion de 
+InsertarNodo. 
+
+Rodrigo trabajó en la adaptacion de la funcion de imprimir registros y la de insertarNodo

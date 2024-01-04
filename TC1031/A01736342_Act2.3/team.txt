@@ -1,0 +1,17 @@
+
+Emiliano Sánchez Dominguez A01736342
+Cynthia Amador Santiago A01737854
+Rodrigo López Guerra A01737437
+
+Cynthia trabajó en la solucion de errores en la funcion de escribirRegistrosenRango(), insertarRegistro() y su adpatacion a los nuevos requerimentos, y participó
+en la correcion de errores para desplegar los registros generado por la funcion BuscarNodo(). Participó en la adaptacion del codigo de la
+Act 1.3 para trabajar con los requerimentos de la actividad 2.3 y las funciones que desarrollo anteriormente como buscarIndiceMes fueron
+ocupas nuevamente. 
+
+Emiliano trabajó en la realizacion de la sobrecarga del operador para comparar dos ip por su forma numerica asi como su correcta implmentacion
+durante todo el codigo, tambien trabajó en la realizacion de las estructuras de Nodo y Registro. Funciones de imprimeAscendente y Descendente 
+y la adpatacion de la funcion QuickSort para que pudiera trabajar con listas doblemente ligadas y la funcion de liberarLista(), trabajo en las
+funciones de BuscarNodo y la particion en el algoritmo de ordenamiento. 
+
+Rodrigo contribuyó en la solucion de los errores generados por la funcion Buscar Nodo que hacia que no se imprimieran los registros solicitados 
+por el usuario, trabajó en la documentacion del codigo y que se apegara a los estandares de codificacion.  

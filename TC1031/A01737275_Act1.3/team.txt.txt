@@ -1,0 +1,9 @@
+Integrantes del equipo:
+
+Francisco Antonio López Ricardez - A01737275
+	parte del proyecto en que trabajó:
+		implementación de la clase Registro (Registro.h y la declaración de registro dentro de main)
+
+Rodrigo Lopez Guerra - A01737437
+	parte del proyecto en que trabajó:
+		implementación de quicksort para objetos de tipo Registro e implementación de la busqueda secuencial.
